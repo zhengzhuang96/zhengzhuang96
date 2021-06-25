@@ -2,7 +2,7 @@
 
 I'm zhengzhuang (郑壮) .
 
-- 🍒 目前前端开发3年
+- 🍒 目前从事前端开发
 - 🍉 Working on [rtmp_tencent_live](https://github.com/zhengzhuang96/rtmp_tencent_live) 的创作者
 - 🍋 一个比较年轻的人哈哈哈
 - 📍 青岛
