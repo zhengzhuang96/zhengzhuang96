@@ -2,10 +2,9 @@
 
 I'm zhengzhuang (郑壮) .
 
-- 🍒 目前从事前端开发
-- 🍉 Working on [rtmp_tencent_live](https://github.com/zhengzhuang96/rtmp_tencent_live) 的创作者
-- 🍋 一个比较年轻的人哈哈哈
-- 📍 青岛
+🍒 Currently engaged in front-end development
+🍋 A young man, ha ha ha
+📍 Qingdao
 
 <!--
 **zhengzhuang96/zhengzhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
