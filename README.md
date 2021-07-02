@@ -2,9 +2,9 @@
 
 I'm zhengzhuang (郑壮) .
 
-🍒 Currently engaged in front-end development
-🍋 A young man, ha ha ha
-📍 Qingdao
+- 🍒 Currently engaged in front-end development
+- 🍋 A young man, ha ha ha
+- 📍 Qingdao
 
 <!--
 **zhengzhuang96/zhengzhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
