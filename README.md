@@ -6,7 +6,8 @@ I'm zhengzhuang (郑壮) .
 - 🍋 A young man, ha ha ha
 - 📍 Qingdao
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true)
+
 
 
 <!--
