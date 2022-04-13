@@ -2,9 +2,9 @@
 
 I'm zhengzhuang (郑壮) .
 
-- 🍒 Currently engaged in front-end development
-- 🍋 A young man, ha ha ha
-- 📍 Qingdao
+- 🍒 目前在北京从事前端开发
+- 🍋 岁数也不小了，96年的
+- 📍 喜欢的东西有很多，比如数码，比如去除玩
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true)
 
