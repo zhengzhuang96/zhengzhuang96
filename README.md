@@ -9,7 +9,7 @@ I'm zhengzhuang (郑壮) .
 个人也喜欢写一些东西
 专门面对当前面试造航母起的项目 --> <a href='https://zhengzhuang96.github.io/web-interview/zh-CN' target='_blank'>八股文面试</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical)
 
 
 
