@@ -5,7 +5,7 @@ I'm zhengzhuang (郑壮) .
 - 🍒 目前在北京从事前端开发
 - 📍 喜欢的东西有很多，比如数码，比如玩
 
-[我的博客](https://zhengzhuang96.github.io/blog/?_blank)
+<a href=“https://zhengzhuang96.github.io/blog/” target="_blank">我的博客</a>
 
 个人也喜欢写一些东西
 
