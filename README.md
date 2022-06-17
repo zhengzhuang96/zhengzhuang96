@@ -16,8 +16,8 @@ I'm zhengzhuang (郑壮) .
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="130" />
 </p>
 
 <!--
