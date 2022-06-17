@@ -19,7 +19,7 @@ I'm zhengzhuang (郑壮) .
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Happydong/count.svg" />
+  <img src="https://profile-counter.glitch.me/zhengzhuang96/count.svg" />
 </p>
 
 <!--
