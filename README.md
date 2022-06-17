@@ -20,6 +20,8 @@ I'm zhengzhuang (郑壮) .
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="140" />
 </p>
 
+![](https://profile-counter.glitch.me/zhengzhuang96/count.svg)
+
 <!--
 **zhengzhuang96/zhengzhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
