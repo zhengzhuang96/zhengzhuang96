@@ -2,8 +2,13 @@
 
 I'm zhengzhuang (郑壮) .
 
-- 🍒 目前在北京从事前端开发
-- 📍 喜欢的东西有很多，比如数码，比如玩
+- 🍒 我目前在北京从事前端开发工作。
+- 📍 我可以在web、小程序、flutter等方面进行合作...
+- 🔭 目前正在研究node后台服务相关的东西
+- 🌱 我目前正在学习egg.js~
+- 👯 我正在寻找合作的机会...
+- 💬 可以式问我任何你想问的问题~
+- 📫 如何联系我，weixin: zhuang960108
 
 <a href='https://zhengzhuang96.github.io/blog/' target='_blank'>我的博客</a>
 
@@ -11,7 +16,12 @@ I'm zhengzhuang (郑壮) .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical)
 
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Happydong&layout=compact)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Happydong/count.svg" />
+</p>
 
 <!--
 **zhengzhuang96/zhengzhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
