@@ -14,10 +14,16 @@ I'm zhengzhuang (郑壮) .
 
 个人也喜欢写一些东西
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact)
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%;display: flex;justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" style="width: 100%;" />
+  </div>
+  <div style="width: 50%; display: flex;justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact"" style="width: 83%;" />
+  </div>
+</div>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zhengzhuang96/count.svg" />
 </p>
