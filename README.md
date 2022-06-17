@@ -13,10 +13,10 @@ I'm zhengzhuang (郑壮) .
 <a href='https://zhengzhuang96.github.io/blog/' target='_blank'>我的博客</a>
 
 个人也喜欢写一些东西
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical)
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Happydong&layout=compact)
+<div>
+  <div style="width: 50%; float: left;">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical)</div>
+  <div style="width: 50%">![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Happydong&layout=compact)</div>
+</dir>
 
 <p align="center"> 
   Visitor count<br>
