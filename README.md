@@ -14,18 +14,10 @@ I'm zhengzhuang (郑壮) .
 
 个人也喜欢写一些东西
 
-<div style="display: flex; flex-direction:row; width: 100%;">
-  <div style="width: 50%;display: flex;justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" />
-  </div>
-  <div style="width: 50%; display: flex;justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" />
-  </div>
-</div>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zhengzhuang96/count.svg" />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="120" />
 </p>
 
 <!--
