@@ -7,7 +7,7 @@ I'm zhengzhuang (郑壮) .
 - 🔭 目前正在研究node后台服务相关的东西
 - 🌱 我目前正在学习egg.js~
 - 👯 我正在寻找合作的机会...
-- 💬 可以式问我任何你想问的问题~
+- 💬 可以我任何你想问的问题~
 - 📫 如何联系我，weixin: zhuang960108
 
 <a href='https://zhengzhuang96.github.io/blog/' target='_blank'>我的博客</a>
