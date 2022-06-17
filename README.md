@@ -19,7 +19,7 @@ I'm zhengzhuang (郑壮) .
     <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" />
   </div>
   <div style="width: 50%; display: flex;justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact"" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" />
   </div>
 </div>
 
