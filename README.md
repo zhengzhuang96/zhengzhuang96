@@ -14,12 +14,12 @@ I'm zhengzhuang (郑壮) .
 
 个人也喜欢写一些东西
 
-<div style="display: flex; width: 100%;">
+<div style="display: flex; flex-direction; width: 100%;">
   <div style="width: 50%;display: flex;justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" />
   </div>
   <div style="width: 50%; display: flex;justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact"" style="width: 83%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact"" />
   </div>
 </div>
 
