@@ -10,7 +10,7 @@ I'm zhengzhuang (郑壮) .
 - 💬 可以我任何你想问的问题~
 - 📫 如何联系我，wx: zhuang960108
 
-<a href='https://blog-notion-liard.vercel.app' target='_blank'>我的博客</a>
+<a href='https://blog-zhengzhuang.vercel.app' target='_blank'>我的博客</a>
 
 个人也喜欢写一些东西
 
