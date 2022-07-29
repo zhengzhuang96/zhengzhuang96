@@ -12,9 +12,6 @@ I'm zhengzhuang (郑壮) .
 
 <a href='https://zhengzhuang96.github.io/blog' target='_blank'>我的博客</a>
 
-个人也喜欢写一些东西
-
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
