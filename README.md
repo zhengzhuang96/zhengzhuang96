@@ -3,7 +3,7 @@
 I'm zhengzhuang (郑壮) .
 
 - 👨‍💻 北京 · 前端开发工程师
-- 🏷️ JavaScript、React、Vue、 TypeScript、Next.js
+- 🏷️ JavaScript、React、Vue、TypeScript、Next.js
 - 👯 我正在寻找合作的机会...
 - 📫 微信: zhuang960108
 
