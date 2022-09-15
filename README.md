@@ -2,13 +2,11 @@
 
 I'm zhengzhuang (郑壮) .
 
-- 🍒 我目前在北京从事前端开发工作。
-- 📍 我可以在web、小程序、flutter等方面进行合作...
-- 🔭 目前正在研究node后台服务相关的东西
-- 🌱 我目前正在学习，并且进步~
+- 👨‍💻 北京 · 前端开发工程师
+- 🏷️ JavaScript、React、Vue、 TypeScript、Next.js
 - 👯 我正在寻找合作的机会...
 - 💬 可以我任何你想问的问题~
-- 📫 如何联系我，wx: zhuang960108
+- 📫 微信: zhuang960108
 
 <a href='https://blog-zhengzhuang.vercel.app' target='_blank'>我的博客</a>
 
