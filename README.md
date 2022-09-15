@@ -5,7 +5,6 @@ I'm zhengzhuang (郑壮) .
 - 👨‍💻 北京 · 前端开发工程师
 - 🏷️ JavaScript、React、Vue、 TypeScript、Next.js
 - 👯 我正在寻找合作的机会...
-- 💬 可以我任何你想问的问题~
 - 📫 微信: zhuang960108
 
 <a href='https://blog-zhengzhuang.vercel.app' target='_blank'>我的博客</a>
