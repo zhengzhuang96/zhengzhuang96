@@ -6,6 +6,7 @@ I'm zhengzhuang (郑壮) .
 - 🏷️ React、Vue、JavaScript、TypeScript、Next.js、Flutter
 - 👯 我正在寻找合作的机会...
 - 📫 微信: zhuang960108
+- Contact with me via Telegram：https://t.me/zh_zhuang
 
 <a href='https://blog-zhengzhuang.vercel.app' target='_blank'>我的博客</a>
 
