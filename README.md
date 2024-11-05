@@ -3,8 +3,7 @@
 I'm zhengzhuang (郑壮) .
 
 - 👨‍💻 北京 · 前端开发工程师
-- 🏷️ React、Vue、JavaScript、TypeScript、Next.js、Flutter
-- 低代码、埋点、组件库、脚手架、前端各种基建
+- 🏷️ 低代码、埋点、组件库、脚手架、前端各种基建
 - 👯 我正在寻找合作的机会...
 - 📫 微信: zhuang960108
 - Contact with me via Telegram：https://t.me/zh_zhuang
