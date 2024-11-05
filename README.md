@@ -8,8 +8,6 @@ I'm zhengzhuang (郑壮) .
 - 📫 微信: zhuang960108
 - Contact with me via Telegram：https://t.me/zh_zhuang
 
-<a href='https://blog-zhengzhuang.vercel.app' target='_blank'>我的博客</a>
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
