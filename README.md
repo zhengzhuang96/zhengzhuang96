@@ -19,6 +19,10 @@ I'm zhengzhuang (郑壮) .
 ### 🍉 技术栈
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,nestjs,flutter,dart,tailwindcss,redux,html,css,js,ts,less,scss)](https://skillicons.dev)
 
+### 🔨 工具库
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,github,jenkins,vercel)](https://skillicons.dev)
+
+
 <!--
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="180" />
