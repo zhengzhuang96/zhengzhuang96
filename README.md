@@ -14,7 +14,7 @@ I'm zhengzhuang (郑壮) .
 </p>
 
 ### 🍉 技术栈
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,nestjs,flutter,dart,tailwindcss,redux,html,css,js,ts,less,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,nestjs,flutter,dart,tailwindcss,html,css,js,ts,less,scss)](https://skillicons.dev)
 
 ### 🔨 工具库
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,github,jenkins,vercel)](https://skillicons.dev)
