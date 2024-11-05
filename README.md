@@ -16,8 +16,8 @@ I'm zhengzhuang (郑壮) .
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
 </p>
 
-
-![](https://profile-counter.glitch.me/zhengzhuang96/count.svg)
+### 🍉 技术栈
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,nestjs,tailwindcss,redux,html,css,js,ts,less,scss)](https://skillicons.dev)
 
 <!--
 <p float="left">
