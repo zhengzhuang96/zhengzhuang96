@@ -3,15 +3,15 @@
 I'm zhengzhuang (郑壮) .
 
 - 👨‍💻 北京 · 前端开发工程师
-- 🏷️ 移动端、跨端、低代码、埋点、组件库、脚手架、前端各种基建
+- 🏷️ 移动端、跨端、ai、agent、低代码、埋点、组件库、脚手架、前端各种基建
 - 👯 我正在寻找合作的机会...
 - 📫 微信: zhuang960108
 - Contact with me via Telegram：https://t.me/zh_zhuang
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
-</p>
+</p> -->
 
 ### 🍉 技术栈
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,nestjs,go,flutter,dart,tailwindcss,html,css,js,ts,less,scss)](https://skillicons.dev)
