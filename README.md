@@ -8,9 +8,18 @@ I'm zhengzhuang (郑壮) .
 </p> -->
 
 ### 🍉 技术栈
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
+
+
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact&theme=radical" height="180" />
