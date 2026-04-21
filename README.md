@@ -16,6 +16,10 @@ I'm zhengzhuang (郑壮) .
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
 
+### ⚡ 最新项目
+
+ - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
 
