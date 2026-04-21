@@ -2,6 +2,8 @@
 
 I'm zhengzhuang (郑壮) .
 
+> I am a front-end AI developer and a father.
+
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
