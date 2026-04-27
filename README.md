@@ -2,14 +2,14 @@
 
 #### Location: Beijing, China
 
-> I’m a developer with 8+ years of experience, focusing on front-end engineering, AI systems, developer tooling, and scalable infrastructure.
+> 我是一名拥有8年以上经验的开发者，专注于前端工程、人工智能系统、开发者工具和可扩展的基础设施。
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
 </p> -->
 
-### 🍉 Technology Stack
+### 🍉 技术栈
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -17,12 +17,11 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
 
-### ⚡ Latest Project
-
+### ⚡ 最新项目
  - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
  - ⛪ [astro-theme-simple](https://github.com/zhengzhuangpro/astro-theme-simple) - 简洁的 Astro 博客主题模板
 
-### 📚 Latest Blog Posts
+### 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
 - [基于 Cloudflare 搭建免费节点](https://blog.zhengz.cc/vpn/%E5%9F%BA%E4%BA%8E-cloudflare-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/)
 - [Claude Code 安装指南（Mac）](https://blog.zhengz.cc/ai/claude-code/)
