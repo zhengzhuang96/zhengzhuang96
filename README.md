@@ -1,5 +1,7 @@
 ### Hi, I'm zhengzhuang (郑壮) 👋
 
+#### Location: Beijing, China
+
 > I am a developer with over 8 years of experience, mainly engaged in front-end development, AI project development, tool development, and technical infrastructure development.
 
 <!-- <p float="left">
@@ -7,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
 </p> -->
 
-### 🍉 技术栈
+### 🍉 Technology Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -15,7 +17,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
 
-### ⚡ 最新项目
+### ⚡ Latest Project
 
  - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
  - ⛪ [astro-theme-simple](https://github.com/zhengzhuangpro/astro-theme-simple) - 简洁的 Astro 博客主题模板
