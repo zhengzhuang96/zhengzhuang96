@@ -22,6 +22,10 @@
  - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
  - ⛪ [astro-theme-simple](https://github.com/zhengzhuangpro/astro-theme-simple) - 简洁的 Astro 博客主题模板
 
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
 
