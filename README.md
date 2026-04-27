@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm zhengzhuang (郑壮) .
+### Hi, I'm zhengzhuang (郑壮) 👋
 
 > I am a front-end AI developer and a father.
 
