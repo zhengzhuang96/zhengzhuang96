@@ -2,7 +2,7 @@
 
 #### 📍 中国北京
 
-> 我是一名拥有8年以上经验的开发者，专注于前端工程、人工智能系统、开发者工具和可扩展的基础设施。
+> 我是一名拥有 8 年以上经验的开发者，专注于前端工程、AI 系统、开发者工具以及可扩展基础设施。
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
