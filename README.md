@@ -14,7 +14,6 @@ I'm zhengzhuang (郑壮) .
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
 
