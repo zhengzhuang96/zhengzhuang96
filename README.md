@@ -2,7 +2,7 @@
 
 #### Location: Beijing, China
 
-> I am a developer with over 8 years of experience, mainly engaged in front-end development, AI project development, tool development, and technical infrastructure development.
+> I’m a developer with 8+ years of experience, focusing on front-end engineering, AI systems, developer tooling, and scalable infrastructure.
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
