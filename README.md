@@ -1,6 +1,6 @@
 ### Hi, I'm zhengzhuang (郑壮) 👋
 
-> I am a front-end AI developer and a father.
+> I am a developer with over 8 years of experience, mainly engaged in front-end development, AI project development, tool development, and technical infrastructure development.
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
