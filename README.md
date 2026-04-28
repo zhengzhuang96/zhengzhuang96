@@ -2,26 +2,35 @@
 
 #### 📍 中国北京
 
-> 我是一名拥有 8 年以上经验的开发者，专注于前端工程、AI 系统、开发者工具以及可扩展基础设施。
+> I build AI products and developer tools that generate real value.
+> 
+> 专注于 AI 产品、自动化工具和开发者基础设施，目标是把技术转化为可持续的产品与收入。
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
 </p> -->
 
-### 🍉 技术栈
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=white)
+## 🍉 技术栈
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### ⚡ 最新项目
+## 🚀 正在构建
  - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
  - ⛪ [astro-theme-simple](https://github.com/zhengzhuangpro/astro-theme-simple) - 简洁的 Astro 博客主题模板
 
-### 📚 最新博客文章
+## 💰 我关注的事情
+
+- 产品化（Productize everything）
+- AI + 自动化带来的杠杆
+- 快速上线 & 快速验证
+- 从工具到收入（Make money with code）
+
+## 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
 - [基于 Cloudflare 搭建免费节点](https://blog.zhengz.cc/vpn/%E5%9F%BA%E4%BA%8E-cloudflare-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/)
 - [Claude Code 安装指南（Mac）](https://blog.zhengz.cc/ai/claude-code/)
@@ -29,6 +38,10 @@
 - [Moltbook Skill 完整拆解](https://blog.zhengz.cc/ai/moltbook-skill%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3/)
 - [我用超级马里奥的风格，做了一个个人主页](https://blog.zhengz.cc/website/%E6%88%91%E7%94%A8%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%84%E9%A3%8E%E6%A0%BC%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/)
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/zhengzhuangpro)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
