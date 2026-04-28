@@ -39,9 +39,11 @@
 - [我用超级马里奥的风格，做了一个个人主页](https://blog.zhengz.cc/website/%E6%88%91%E7%94%A8%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%84%E9%A3%8E%E6%A0%BC%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/zhengzhuangpro)
+-->
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
