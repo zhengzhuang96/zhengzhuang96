@@ -20,8 +20,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ## 🚀 正在构建
- - 🤖 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
- - ⛪ [astro-theme-simple](https://github.com/zhengzhuangpro/astro-theme-simple) - 简洁的 Astro 博客主题模板
+ - 🤖 [ClipHistory](https://github.com/zhengzhuangpro/clip-history) - 轻量、美观、跨平台的剪贴板历史管理工具
 
 ## 💰 我关注的事情
 
