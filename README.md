@@ -31,11 +31,11 @@
 
 ## 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [你的剪贴板，该有个好记性。](https://blog.zhengz.cc/website/%E4%BD%A0%E7%9A%84%E5%89%AA%E8%B4%B4%E6%9D%BF%E8%AF%A5%E6%9C%89%E4%B8%AA%E5%A5%BD%E8%AE%B0%E6%80%A7/)
 - [基于 Cloudflare 搭建免费节点](https://blog.zhengz.cc/vpn/%E5%9F%BA%E4%BA%8E-cloudflare-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/)
 - [Claude Code 安装指南（Mac）](https://blog.zhengz.cc/ai/claude-code/)
 - [Claude Skill](https://blog.zhengz.cc/ai/claude-skill/)
 - [Moltbook Skill 完整拆解](https://blog.zhengz.cc/ai/moltbook-skill%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3/)
-- [我用超级马里奥的风格，做了一个个人主页](https://blog.zhengz.cc/website/%E6%88%91%E7%94%A8%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%84%E9%A3%8E%E6%A0%BC%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
