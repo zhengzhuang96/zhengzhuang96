@@ -21,7 +21,7 @@
 
 ## 🚀 正在构建
  - 🤖 [ClipHistory](https://github.com/zhengzhuangpro/clip-history) - 轻量、美观、跨平台的剪贴板历史管理工具
- - 📰 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 的命令行热门新闻聚合工具
+ - 📰 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
 
 ## 💰 我关注的事情
 
